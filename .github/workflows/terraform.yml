@@ -3,7 +3,7 @@ name: Terraform Apply
 on:
   push:
     branches:
-      - main
+      - main  # Ou o branch que você deseja monitorar
 
 jobs:
   terraform:

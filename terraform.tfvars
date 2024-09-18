@@ -1,0 +1,5 @@
+aws_region    = "us-east-2"
+instance_type = "t2.micro"
+db_name       = "appdb"
+db_username   = "admin"
+db_password   = "admin_password123"

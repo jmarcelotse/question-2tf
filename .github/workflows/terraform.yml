@@ -3,7 +3,7 @@ name: Terraform Apply
 on:
   push:
     branches:
-      - main  # Ou o branch que você desejar utilizar
+      - main
 
 jobs:
   terraform:
